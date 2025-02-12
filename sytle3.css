@@ -1,0 +1,30 @@
+
+.box{
+    width: 700px;
+    margin: auto;
+    height: 600px;
+    background-color:aqua;
+    padding: 20px;
+
+}
+.box1{
+    /* width: 240px; */
+    width: 48.5%;
+    height: 100px;
+    background-color: blueviolet;
+    float: left;
+    margin-right: 1.5;
+    /* margin-left: 10px; */
+    margin-bottom: 20px;
+   
+}
+.box2{
+    /* width: 240px; */
+    width: 50%;
+    height: 100px;
+    background-color: pink;
+    float: left;
+    margin-right: 1.5;
+    /* margin-left: 10px; */
+    margin-bottom: 20px;
+}
